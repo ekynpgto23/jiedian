@@ -24,6 +24,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://app.sublink.works/x/ZrVEXNV",
+    "https://gcore.jsdelivr.net/gh/aews/jd2/v20528.txt",
     "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
 ]
 
